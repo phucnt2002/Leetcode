@@ -1,4 +1,4 @@
-package leetcode.interview;
+package leetcode.binarysearch;
 
 public class GuessNumberHigherLower {
 
@@ -22,5 +22,6 @@ public class GuessNumberHigherLower {
 
     public static void main(String[] args) {
 
+        System.out.println(5 ^ 1 ^ 6);
     }
 }
